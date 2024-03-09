@@ -25,7 +25,7 @@ If you notice in the below screenshot my Flask login page it's running in the po
 
 
 <h3>2-Star the configuration on AWS Console</h3>
-Connect into you AWS console, and write in the search bar EC2. This will open the console where we launch our virtual server in the cloud.
+Connect into your AWS console, and write in the search bar EC2. This will open the console where we launch the EC2 instance.
 Create your server 
 
 ##The readme is not done yet
